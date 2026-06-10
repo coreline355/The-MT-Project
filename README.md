@@ -6,7 +6,6 @@
 
 ---
 
-
 ![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
@@ -26,6 +25,7 @@ The goal of Muffin Text is not just to create a programming language inside Turb
 
 Its main purpose is to demonstrate that **TurboWarp and Scratch-like environments are far more powerful than commonly assumed**.  
 They can be used not only for simple animations and games, but also for complex systems such as:
+
 - 3D engines (**[Glue3D](https://github.com/GL00B/GLUE3D)** as a 3D Engine)
 - Emulators (Some emulators can emulate x86 CPU instructions!)
 - Virtual machines (A Linux VM with the x86 emulator)
@@ -69,19 +69,22 @@ No installation required in both methods.
 
 ### EN-US Docs:
 
-*Coming Soon*
+- [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
+
+- [For MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
+
+- [For MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
 
   ---
-  
+
 ## Links
 
 - [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) 
-  
+
 - [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)
-  
+
 - [Latest Preview Release](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1)
-  
-  
+
 - [MT Web Editor](https://coreline355.github.io/The-MT-Project/)
 
 ---

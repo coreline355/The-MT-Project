@@ -2,10 +2,10 @@
 
 # Muffin Text (MT)
 
-**Muffin Text** é uma linguagem de programação feita inteiramente no **TurboWarp**.  
+**Muffin Text** é uma linguagem de programação feita inteiramente no **TurboWarp**.
 MT é a mesma coisa do que *Muffin Text*.
 
-Este projeto leva o TurboWarp ao seus limites, utilizando-o como uma **máquina virtual**.  
+Este projeto leva o TurboWarp ao seus limites, utilizando-o como uma **máquina virtual**.
 MT possui sua própria **sintaxe**, **parser**, **executor** e **editor**, todos rodando dentro do TurboWarp.
 Esse projeto não seria possível sem o **[Turbowarp Packager](https://github.com/TurboWarp/packager)**.
 
@@ -40,7 +40,7 @@ Existem dois métodos principais de usar o Muffin Text.
 
 ### MT Web Editor:
 
-1. Simplesmente abri o link do **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)**.
+1. Simplesmente abra o link do **[MT Web Editor](https://coreline355.github.io/The-MT-Project/)**.
 2. O **MT Web Editor** será executado diretamente no navegador.
 
 
@@ -54,15 +54,20 @@ Você não precisa instalar nada em ambos os métodos.
 
 ### Docs PT-BR:
 
-- **[Para MT 0.2 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)**
+- **[Para MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)**
 
-- **[Para MT 0.3 Alpha:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)**
+- **[Para MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)**
 
-- **[Para MT 0.4 Beta:](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)**
+- **[Para MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)**
 
 ### Docs EN-US:
 
-*Em breve*
+- [Para MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
+
+- [Para MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
+
+- [Para MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
+
 
   ---
   
