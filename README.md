@@ -3,7 +3,6 @@
 ### [PT-BR](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
 
 > [!WARNING]
-
 > *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
 
 ---
