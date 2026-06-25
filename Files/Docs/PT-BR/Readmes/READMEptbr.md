@@ -18,9 +18,10 @@ O objetivo do Muffin Text não é apenas criar uma linguagem de programação de
 Seu principal objetivo é demonstrar que **o TurboWarp e ambientes semelhantes ao Scratch são muito mais poderosos do que se imagina**.
 
 Eles podem ser usados ​​não apenas para animações e jogos simples, mas também para sistemas complexos como:
+
 - Motores 3D (**[Glue3D](https://github.com/GL00B/GLUE3D)** como motor 3D)
-- Emuladores (alguns emuladores podem emular instruções de CPU x86!)
-- Máquinas virtuais (uma VM Linux com o emulador x86)
+- Emuladores (alguns emuladores podem emular instruções de CPU Risc-V!)
+- Máquinas virtuais (uma VM Linux com o emulador Risc-V)
 - E agora, uma **linguagem de programação completa.** (Quase)
 
 Às vezes, aquilo que subestimamos é o que mais nos surpreende.
@@ -33,7 +34,7 @@ Existem dois métodos principais de usar o Muffin Text.
 
 ### HTML Local:
 
-1. Acesse a aba **Releases** ou clique em um dos links abaixo.
+1. Acesse a aba **[Releases](https://github.com/coreline355/The-MT-Project/releases)** ou clique em um dos links abaixo.
 2. Baixe a versão mais recente do MT.
 3. Abra o arquivo **HTML** baixado no seu navegador.
 4. O **Editor MT** será executado diretamente no navegador.
@@ -42,7 +43,6 @@ Existem dois métodos principais de usar o Muffin Text.
 
 1. Simplesmente abra o link do **[MT Web Editor](https://coreline355.github.io/The-MT-Project/)**.
 2. O **MT Web Editor** será executado diretamente no navegador.
-
 
 Você não precisa instalar nada em ambos os métodos.
 
@@ -54,33 +54,33 @@ Você não precisa instalar nada em ambos os métodos.
 
 ### Docs PT-BR:
 
-- **[Para MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)**
+- [Para MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)
 
-- **[Para MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)**
+- [Para MT 0.3.x Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)
 
-- **[Para MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)**
+- [Para MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
 ### Docs EN-US:
 
 - [Para MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
 
-- [Para MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
+- [Para MT 0.3.x Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
 
-- [Para MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
-
+- [Para MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
 
   ---
-  
+
 ## Links
 
-- [Última versão Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) 
-  
-- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)
-  
-- [Última versão preview](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1)
-  
-  
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/)
+- [Última versão Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
+
+- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.2-Beta) **MT 0.4.2 Beta**
+
+- [Última versão preview](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1) **MT 0.5 Beta RP1**
+
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.4.2 Beta**
+
+- ~~Wiki Oficial do MT~~ **Em breve**
 
 ---
 

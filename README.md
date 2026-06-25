@@ -2,7 +2,9 @@
 
 ### [PT-BR](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
 
-*Never trust on a auto-translator.* This document is writen in English. If you are reading this in translated Portuguese, check the PT-BR Readme.
+> [!WARNING]
+
+> *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
 
 ---
 
@@ -27,8 +29,8 @@ Its main purpose is to demonstrate that **TurboWarp and Scratch-like environment
 They can be used not only for simple animations and games, but also for complex systems such as:
 
 - 3D engines (**[Glue3D](https://github.com/GL00B/GLUE3D)** as a 3D Engine)
-- Emulators (Some emulators can emulate x86 CPU instructions!)
-- Virtual machines (A Linux VM with the x86 emulator)
+- Emulators (Some emulators can emulate Risc-V CPU instructions!)
+- Virtual machines (A Linux VM with the Risc-V emulator)
 - And now, a **full programming language** (Almost)
 
 Sometimes, what we underestimate surprises us the most.
@@ -41,14 +43,14 @@ There are two main methods to use Muffin Text.
 
 ### Local HTML:
 
-1. Go to the **[Releases](https://github.com/jhojho3jogos456-design/The-MT-Project/releases)** tab, or click one of the links below.
+1. Go to the **[Releases](https://github.com/coreline355/The-MT-Project/releases)** tab, or click one of the links below.
 2. Download the latest MT release.
 3. Open the downloaded **HTML file** in your browser.
 4. The **MT Editor** will run directly in the browser.
 
 ### Web Editor:
 
-1. Simply open the **[MT Web Editor:](https://coreline355.github.io/The-MT-Project/)** link.
+1. Simply open the **[MT Web Editor](https://coreline355.github.io/The-MT-Project/)** link.
 2. The **MT Web Editor** will run directly in the browser.
 
 No installation required in both methods.
@@ -63,29 +65,31 @@ No installation required in both methods.
 
 - [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.2a.md)
 
-- [For MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)
+- [For MT 0.3.x Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.3a.md)
 
-- [For MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
+- [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
 ### EN-US Docs:
 
 - [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
 
-- [For MT 0.3 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
+- [For MT 0.3.x Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
 
-- [For MT 0.4 Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
-
+- [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
+  
   ---
 
 ## Links
 
-- [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) 
+- [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.1-Beta)
+- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.2-Beta) **MT 0.4.2 Beta**
 
-- [Latest Preview Release](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1)
+- [Latest Preview Release](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1) **MT 0.5 Beta RP1**
 
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/)
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.4.2 Beta**
+
+- ~~Official MT Wiki~~ **Coming Soon**
 
 ---
 
