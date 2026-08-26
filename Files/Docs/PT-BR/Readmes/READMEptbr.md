@@ -74,9 +74,9 @@ Você não precisa instalar nada em ambos os métodos.
 
 - [Última versão Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.2-Beta) **MT 0.5 Beta**
+- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5-Beta) **MT 0.5 Beta**
 
-- ~~[Última versão preview]()~~ **Nenhuma Versão preview disponível.**
+- ~~Última versão preview~~ **Nenhuma Versão preview disponível.**
 
 - [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5 Beta**
 

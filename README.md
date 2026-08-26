@@ -86,7 +86,7 @@ No installation required in both methods.
 
 - [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5-Beta) **MT 0.5 Beta**
 
-- ~~[Latest Preview Release]()~~ **No preview releases avaiable**
+- ~~Latest Preview Release~~ **No preview releases avaiable**
 
 - [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5 Beta**
 
