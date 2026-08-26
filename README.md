@@ -68,6 +68,8 @@ No installation required in both methods.
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
+- 
+
 ### EN-US Docs:
 
 - [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
@@ -82,11 +84,11 @@ No installation required in both methods.
 
 - [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.4.2-Beta) **MT 0.4.2 Beta**
+- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5-Beta) **MT 0.5 Beta**
 
-- [Latest Preview Release](https://github.com/coreline355/The-MT-Project/releases/tag/0.5-Beta-P1) **MT 0.5 Beta RP1**
+- ~~[Latest Preview Release]()~~ **No preview releases avaiable**
 
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.4.2 Beta**
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5 Beta**
 
 - ~~Official MT Wiki~~ **Coming Soon**
 
