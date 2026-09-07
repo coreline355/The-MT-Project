@@ -68,8 +68,6 @@ No installation required in both methods.
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
-- 
-
 ### EN-US Docs:
 
 - [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
