@@ -1,12 +1,3 @@
-## README Languages:
-
-### [PT-BR](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
-
-> [!WARNING]
-> *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
-
----
-
 ![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
@@ -68,6 +59,8 @@ No installation required in both methods.
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
+- ~~[For MT 0.5.x Beta]()~~ **Coming Soon**
+
 ### EN-US Docs:
 
 - [For MT 0.2 Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.2a.md)
@@ -75,6 +68,8 @@ No installation required in both methods.
 - [For MT 0.3.x Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.3a.md)
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
+
+- ~~[For MT 0.5.x Beta]()~~ **Coming Soon**
   
   ---
 
@@ -82,14 +77,23 @@ No installation required in both methods.
 
 - [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5-Beta) **MT 0.5 Beta**
+- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5.1-Beta) **MT 0.5.1 Beta**
 
 - ~~Latest Preview Release~~ **No preview releases avaiable**
 
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5 Beta**
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5.1 Beta**
 
 - ~~Official MT Wiki~~ **Coming Soon**
 
 ---
 
 **Have fun experimenting with Muffin Text :)**
+
+---
+
+## README Languages:
+
+### [PT-BR](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
+
+> [!WARNING]
+> *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
