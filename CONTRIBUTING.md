@@ -8,6 +8,9 @@ Here you can learn **how to improve Muffin Text**, by reporting bugs and in the 
 
 ## Reporting Bugs
 
+> [!CAUTION]
+> It is forbidden to use offensive language on the Issues Page. Doing it so may have penalties implied by github moderation itself.
+
 If you found a **Bug** in a MT project, the first thing to do is to open a *Issue* in the MT Repo. In the **[Issues Page](https://github.com/jhojho3jogos456-design/The-MT-Project/issues)**
 
 ### Writing the Issue
@@ -24,4 +27,4 @@ If you found a **Bug** in a MT project, the first thing to do is to open a *Issu
 
 ---
 
-*This page is new and more things will be added here in the future.*
+*more things will be added here in the future.*
