@@ -60,7 +60,7 @@ Você não precisa instalar nada em ambos os métodos.
 
 - [Para MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
-- ~~[Para MT 0.5.x Beta]()~~ **Em Breve**
+- ~~Para MT 0.5.x Beta~~ **Em Breve**
 
 ### Docs EN-US:
 
@@ -70,9 +70,13 @@ Você não precisa instalar nada em ambos os métodos.
 
 - [Para MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
 
-- ~~[Para MT 0.5.x Beta]()~~ **Em Breve**
+- ~~Para MT 0.5.x Beta~~ **Em Breve**
   
   ---
+
+## Aviso de Ofuscação
+
+A partir de 02/10/2026, o código de todas as versões do MT passou a ser ofuscado para impedir a descompactação (unpackaging) ou descompilação trivial. Você pode consultar os termos relativos ao compartilhamento e à edição do código do MT na [MuffinText Proprietary License](https://github.com/coreline355/The-MT-Project/tree/main?tab=License-1-ov-file).
 
 ## Links
 

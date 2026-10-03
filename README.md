@@ -59,7 +59,7 @@ No installation required in both methods.
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/0.4b.md)
 
-- ~~[For MT 0.5.x Beta]()~~ **Coming Soon**
+- ~~For MT 0.5.x Beta~~ **Coming Soon**
 
 ### EN-US Docs:
 
@@ -69,9 +69,13 @@ No installation required in both methods.
 
 - [For MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
 
-- ~~[For MT 0.5.x Beta]()~~ **Coming Soon**
-  
-  ---
+- ~~For MT 0.5.x Beta~~ **Coming Soon**
+
+---
+
+## Obfuscation Notice
+
+As of 02/10/2026, all MT versions did have its code obfuscated to prevent trivial unpackaging/decompiling. You can see the terms for sharing and editing of MT code on the [MT Proprietary License](https://github.com/coreline355/The-MT-Project/tree/main?tab=License-1-ov-file).
 
 ## Links
 
