@@ -16,7 +16,7 @@ Version 1.0      @ 2026 coreline355. All Rights Reserved.
 
 ---
 
-1. It is forbidden to unpackage/decompile the project and/or share and/or modify a closed source MT version. Unless the following version has its open source code avaiable on https://github.com/coreline355/The-MT-Project/releases/tag/0.5.1-Beta.
+1. It is forbidden to unpackage/decompile the project and/or share and/or modify a closed source MT version. Unless the following version has its open source code avaiable on https://github.com/coreline355/The-MT-Project/releases
 
 2. MuffinText is a Semi-Open Source project. Recent versions (Newer than 365 days) are closed source. Versions older than 365 days can have its source code open and published on the main repo releases page. However, not guaranteed. (Excluding 0.1 Alpha)
 
@@ -45,7 +45,3 @@ Version 1.0      @ 2026 coreline355. All Rights Reserved.
 > SOFTWARE.
 
 4. The MTPL license has no effect on open source MT versions.
-
-
-
-
