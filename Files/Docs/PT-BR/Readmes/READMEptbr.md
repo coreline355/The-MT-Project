@@ -1,4 +1,4 @@
-![Muffin Text Logo](/Logos/MTlogo.svg)
+![Muffin Text Logo](/Logos/MTpartylogo.svg)
 
 # Muffin Text (MT)
 
@@ -82,11 +82,11 @@ A partir de 02/10/2026, o código de todas as versões do MT passou a ser ofusca
 
 - [Última versão Alpha](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5.1-Beta) **MT 0.5.1 Beta**
+- [Última versão Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5.2-Beta) **MT 0.5.2 Beta**
 
 - ~~Última versão preview~~ **Nenhuma Versão preview disponível.**
 
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5.1 Beta**
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5.2 Beta**
 
 - ~~Wiki Oficial do MT~~ **Em breve**
 

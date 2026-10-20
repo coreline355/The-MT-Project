@@ -1,9 +1,8 @@
-![Muffin Text Logo](/Logos/MTlogo.svg)
+![Muffin Text Logo](/Logos/MTpartylogo.svg)
 
 # Muffin Text (MT)
 
 **Muffin Text** is a programming language made entirely in **TurboWarp**.  
-MT stands for *Muffin Text*.
 
 This project pushes TurboWarp to its limits by using it as a **virtual machine**.  
 MT has its own **syntax**, **parser**, **executor**, and **editor**, all running inside TurboWarp.
@@ -81,11 +80,11 @@ As of 02/10/2026, all MT versions did have its code obfuscated to prevent trivia
 
 - [Last Alpha Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.3.1-Alpha) **MT 0.3.1 Alpha**
 
-- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5.1-Beta) **MT 0.5.1 Beta**
+- [Latest Beta Release](https://github.com/jhojho3jogos456-design/The-MT-Project/releases/tag/0.5.2-Beta) **MT 0.5.2 Beta**
 
 - ~~Latest Preview Release~~ **No preview releases avaiable**
 
-- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5.1 Beta**
+- [MT Web Editor](https://coreline355.github.io/The-MT-Project/) **MT 0.5.2 Beta**
 
 - ~~Official MT Wiki~~ **Coming Soon**
 
@@ -95,9 +94,15 @@ As of 02/10/2026, all MT versions did have its code obfuscated to prevent trivia
 
 ---
 
+<details>
+
+<summary>See this page in another language</summary>
+
 ## README Languages:
 
-### [PT-BR](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
+### [PT-BR](https://github.com/coreline355/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
 
 > [!WARNING]
 > *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
+
+</summary>
