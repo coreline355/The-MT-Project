@@ -1,7 +1,7 @@
 > [!WARNING]
 > MuffinText's devlopment is paused until December. I have more important things to do now in my life, and in december i usually have a lot of free time to continue MT's devlopment. So yeah, just wait.
 
-![Muffin Text Logo](/Logos/MTpartylogo.svg)
+![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
 

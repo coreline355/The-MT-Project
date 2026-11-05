@@ -1,4 +1,4 @@
-![Muffin Text Logo](/Logos/MTpartylogo.svg)
+![Muffin Text Logo](/Logos/MTlogo.svg)
 
 # Muffin Text (MT)
 
@@ -71,7 +71,7 @@ Você não precisa instalar nada em ambos os métodos.
 - [Para MT 0.4.x Beta](https://github.com/jhojho3jogos456-design/The-MT-Project/blob/main/Files/Docs/EN-US/0.4b.md)
 
 - ~~Para MT 0.5.x Beta~~ **Em Breve**
-  
+
   ---
 
 ## Aviso de Ofuscação
