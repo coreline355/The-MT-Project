@@ -1,3 +1,6 @@
+> [!WARNING]
+> MuffinText's devlopment is paused until December. I have more important things to do now in my life, and in december i usually have a lot of free time to continue MT's devlopment. So yeah, just wait.
+
 ![Muffin Text Logo](/Logos/MTpartylogo.svg)
 
 # Muffin Text (MT)
@@ -103,6 +106,6 @@ As of 02/10/2026, all MT versions did have its code obfuscated to prevent trivia
 ### [PT-BR](https://github.com/coreline355/The-MT-Project/blob/main/Files/Docs/PT-BR/Readmes/READMEptbr.md)
 
 > [!WARNING]
-> *Never always trust on a auto-translator.* This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
+> Never always trust on a auto-translator. This document is writen in English. If you are reading this in translated in another language other than english, check the official Readme language list below, if the list dont have your language, you can stay with the auto-translator, but be aware that the Readme WILL have wrong things and words.
 
 </summary>
